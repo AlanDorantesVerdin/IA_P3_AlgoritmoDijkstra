@@ -49,7 +49,7 @@ Para correr este proyecto en tu máquina local, asegúrate de tener Python insta
 
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/AlanDorantesVerdin/IA_P3_AlgoritmoDijkstra.git](https://github.com/AlanDorantesVerdin/IA_P3_AlgoritmoDijkstra.git)
+    git clone [https://github.com/AlanDorantesVerdin/IA_P3_AlgoritmoDijkstra.git]
     ```
 2.  Navega a la carpeta:
     ```bash
